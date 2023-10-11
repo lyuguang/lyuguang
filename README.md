@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lyuguang
+- 👋 Hi, I’m @LucasLyu
 - 👀 I’m interested in eatting and thinking
 - 🌱 I’m currently learning C language and database system
 - 💞️ I’m looking to collaborate on learning C language togther
