@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Guangxing Lyu
 - 👀 I’m interested in eatting and thinking
-- 🌱 I’m currently learning C, Java computer network and OS
+- 🌱 I’m currently learning Flutter and C#
 - 💞️ I’m looking to collaborate on learning togther
 - 📫 How to reach me send me email to guangxingl@student.unimelb.edu.au / guangxinglyu4@gmail.com
 
